@@ -6,14 +6,15 @@
 首先，需要了解阿里云相关产品可以通过如下链接：
 ## 直播
 1. [直播快速开始](https://help.aliyun.com/document_detail/29957.html?spm=5176.doc45215.6.546.CjFllk)
-2. [阿里云连麦对接文档.pdf](阿里云连麦对接文档.pdf)
+2. [阿里云连麦对接文档.pdf](./pdf/阿里云连麦对接文档.pdf)
 3. [开始混流](https://help.aliyun.com/document_detail/44405.html?spm=5176.doc27155.6.697.cgWmgn)
 4. [结束混流](https://help.aliyun.com/document_detail/44406.html?spm=5176.doc44405.6.698.t06Bxa)
 5. [连麦地址效果说明](./address.md)
+6. [App server连麦基本流程](./pdf/连麦AppServer处理流程图.pdf)
 
 ## 消息服务
 1. 阿里云MNS服务 [文档](https://help.aliyun.com/document_detail/27414.html?spm=5176.doc27494.6.539.xhdQKj)
-2. 客户端订阅 [文档](websocket.pdf)
+2. 客户端订阅 [文档](./pdf/websocket.pdf)
 
 #部署和配置
 
