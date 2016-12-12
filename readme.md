@@ -15,6 +15,7 @@
 2. 客户端订阅 [文档](websocket.pdf)
 
 #部署和配置
+
 1. [部署](./deploy/deployment)
 2. [配置](./config/config)
 
@@ -28,11 +29,13 @@
 
 ## 用户管理 | users
 [TOP](#top)
+
 1. [登录 /login](./user/login)
 2. [直播间观众列表 /im/room/users](./user/roomusers)
 
 ## 直播管理 | live
 [TOP](#top)
+
 1. [直播列表 live/list](./live/list)
 2. 创建直播 live/create](./live/create)
 3. [观看直播 live/play](./live/play)
@@ -43,16 +46,19 @@
 
 ## 连麦管理 | videocall
 [TOP](#top)
+
 1. [邀请连麦 videolcall/invite](./videocall/invite)
 2. [连麦反馈 videocall/feedback](./videocall/feedback)
 3. [连麦关闭 videocall/close](./videocall/close)
 
 ## 阿里MNS管理 | alimns
 [TOP](#top)
+
 1. [获取web socket链接信息 mns/topic/websocket/info](./mns/websocket)
 
 ## 阿里通知 | alinotify
 [TOP](#top)
+
 1. [阿里通知 videocall/ali/notify](./alinotify/notify)
 
 # 推送消息
