@@ -16,8 +16,8 @@
 
 #部署和配置
 
-1. [部署](./deploy/deployment)
-2. [配置](./config/config)
+1. [部署](./deploy/deployment.md)
+2. [配置](./config/config.md)
 
 # 接口说明：
 
@@ -30,38 +30,38 @@
 ## 用户管理 | users
 [TOP](#top)
 
-1. [登录 /login](./user/login)
-2. [直播间观众列表 /im/room/users](./user/roomusers)
+1. [登录 /login](./user/login.md)
+2. [直播间观众列表 /im/room/users](./user/roomusers.md)
 
 ## 直播管理 | live
 [TOP](#top)
 
-1. [直播列表 live/list](./live/list)
-2. 创建直播 live/create](./live/create)
-3. [观看直播 live/play](./live/play)
-4. [主播退出直播 live/leave](./live/close)
-5. [直播评论 live/comment](./live/comment)
-6. [直播点赞 live/live](./live/like)
-7. [结束观看直播 live/audience/leave](./live/leave)
+1. [直播列表 live/list](./live/list.md)
+2. 创建直播 live/create](./live/create.md)
+3. [观看直播 live/play](./live/play.md)
+4. [主播退出直播 live/leave](./live/close.md)
+5. [直播评论 live/comment](./live/comment.md)
+6. [直播点赞 live/live](./live/like.md)
+7. [结束观看直播 live/audience/leave](./live/leave.md)
 
 ## 连麦管理 | videocall
 [TOP](#top)
 
-1. [邀请连麦 videolcall/invite](./videocall/invite)
-2. [连麦反馈 videocall/feedback](./videocall/feedback)
-3. [连麦关闭 videocall/close](./videocall/close)
+1. [邀请连麦 videolcall/invite](./videocall/invite.md)
+2. [连麦反馈 videocall/feedback](./videocall/feedback.md)
+3. [连麦关闭 videocall/close](./videocall/close.md)
 
 ## 阿里MNS管理 | alimns
 [TOP](#top)
 
-1. [获取web socket链接信息 mns/topic/websocket/info](./mns/websocket)
+1. [获取web socket链接信息 mns/topic/websocket/info](./mns/websocket.md)
 
 ## 阿里通知 | alinotify
 [TOP](#top)
 
-1. [阿里通知 videocall/ali/notify](./alinotify/notify)
+1. [阿里通知 videocall/ali/notify](./alinotify/notify.md)
 
 # 推送消息
-1. [推送消息](./msg/msg)
+1. [推送消息](./msg/msg.md)
 
 
