@@ -1,7 +1,7 @@
 
 
 
-# 阿里云直播App server接口介绍和部署
+# Node.js实现的阿里云直播App server接口介绍和部署
 
 首先，需要了解阿里云相关产品可以通过如下链接：
 ## 直播
@@ -11,7 +11,7 @@
 4. [结束混流](https://help.aliyun.com/document_detail/44406.html?spm=5176.doc44405.6.698.t06Bxa)
 
 ## 消息服务
-1. IM用的是阿里云MNS服务 [文档](https://help.aliyun.com/document_detail/27414.html?spm=5176.doc27494.6.539.xhdQKj)
+1. 阿里云MNS服务 [文档](https://help.aliyun.com/document_detail/27414.html?spm=5176.doc27494.6.539.xhdQKj)
 2. 客户端订阅 [文档](websocket.pdf)
 
 #部署和配置
