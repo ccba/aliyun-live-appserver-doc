@@ -9,7 +9,7 @@
 2. [阿里云连麦对接文档.pdf](阿里云连麦对接文档.pdf)
 3. [开始混流](https://help.aliyun.com/document_detail/44405.html?spm=5176.doc27155.6.697.cgWmgn)
 4. [结束混流](https://help.aliyun.com/document_detail/44406.html?spm=5176.doc44405.6.698.t06Bxa)
-5. [连麦地址效果说明](连麦地址效果说明.pdf)
+5. [连麦地址效果说明](./address.md)
 
 ## 消息服务
 1. 阿里云MNS服务 [文档](https://help.aliyun.com/document_detail/27414.html?spm=5176.doc27494.6.539.xhdQKj)
