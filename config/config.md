@@ -1,5 +1,5 @@
 配置是在config.js文件里
-```json
+```ruby
 config = {
   port: 4000, //服务端口号
   ip: "localhost", //服务IP地址
