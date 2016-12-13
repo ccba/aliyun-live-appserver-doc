@@ -56,7 +56,7 @@
 
 ## 阿里通知 | alinotify
 
-1. [阿里通知 videocall/ali/notify](./alinotify/notify.md)
+1. [阿里通知](./alinotify/notify.md)
 
 # 推送消息
 1. [推送消息](./msg/msg.md)
