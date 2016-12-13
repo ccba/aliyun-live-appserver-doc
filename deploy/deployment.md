@@ -8,6 +8,7 @@
 
 ### 安装nginx
 因为连麦异常通知消息包含空格， 导致appserver消息接受不到,CDN的要下次发布时候添加decode，临时解决方案是这个回调通过nginx代理跳转， 下一版本就不用这一步了。
+
 1. 安装参考：http://blog.csdn.net/molingduzun123/article/details/51850925  zlib可以不安装
 2. 配置ngix.conf, 添加端口
 
