@@ -16,9 +16,9 @@
 1. 阿里云MNS服务 [文档](https://help.aliyun.com/document_detail/27414.html?spm=5176.doc27494.6.539.xhdQKj)
 2. 客户端订阅 [文档](./pdf/websocket.pdf)
 
-#部署和配置
+#代码和配置
 
-1. [部署](./deploy/deployment.md)
+1. [Appserver源码](https://github.com/ccba/aliyun-live-appserver-code)
 2. [配置](./config/config.md)
 
 # 接口说明：
