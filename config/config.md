@@ -37,6 +37,7 @@ config = {
   },
   //用于生产直播推流和播放地址 这个要到阿里云控制台配置自己的推流和播放域名
   appName: 'DemoApp',
+  authKey: 'qupai', //用于生成推流鉴权的key
   rtmpHost: 'videocall.push.aliyun.com', //推流host域名
   playHost: 'videocall.play.aliyun.com', //播放host域名
 }
