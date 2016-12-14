@@ -18,7 +18,7 @@
 
 #代码和配置
 
-1. [Appserver源码](https://github.com/ccba/aliyun-live-appserver-code)
+1. [appserver源码](https://github.com/ccba/aliyun-live-appserver-code)
 2. [配置](./config/config.md)
 
 # 接口说明：
