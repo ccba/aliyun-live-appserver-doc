@@ -1,3 +1,4 @@
+[返回](https://github.com/ccba/aliyun-live-appserver-doc)
 配置是在config.js文件里
 ```ruby
 config = {
