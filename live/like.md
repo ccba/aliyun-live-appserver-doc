@@ -1,3 +1,5 @@
+[**返回**](https://github.com/ccba/aliyun-live-appserver-doc#live)
+
 # 直播点赞
 
 ## 请求方式 ##

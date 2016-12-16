@@ -1,3 +1,5 @@
+[**返回**](https://github.com/ccba/aliyun-live-appserver-doc#live)
+
 # 观众离开直播
 
 ## 请求方式 ##
