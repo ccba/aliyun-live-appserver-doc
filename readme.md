@@ -31,7 +31,7 @@
           port: 4000, //服务端口号
           ip: "localhost", //服务IP地址
           redis: {
-            password: "videocall", //redis连接密码
+            password: "", //redis连接密码
             host: 'localhost', //redis的host
             port: 6379, //redis端口号
             keyprefix: 'mns'
@@ -63,7 +63,6 @@
             templateName: '_mix' //CDN混流模版名称，默认为mix
           },
           //用于生产直播推流和播放地址 这个要到阿里云控制台配置自己的推流和播放域名
-          appName: 'DemoApp',
           authKey: 'qupaivid', //用于生产推流鉴权的key， 如果为空将不添加auth_key参数
           appName: 'DemoApp',
           isCenterPush: false, //是否中心推流 rtmp://video-center.alivecdn.com/DemoApp/3ff0274890?vhost=videocall.play.aliyun.com
