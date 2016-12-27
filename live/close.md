@@ -6,8 +6,6 @@
 ```ruby
     POST "/live/leave"
 ```
-## 是否需要登录 ##
-    是
 
 ## 请求参数 ##
 
@@ -19,7 +17,7 @@ roomId|int|Y|直播间ID
    无
 
 ## 返回结果 Json ##
->1.成功获取
+
 ```python
 {
   "code": 200,

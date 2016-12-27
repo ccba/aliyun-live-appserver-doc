@@ -6,8 +6,6 @@
 ```ruby
     POST "/videocall/feedback"
 ```
-## 是否需要登录 ##
-    是
 
 ## 请求参数 ##
 
@@ -20,12 +18,7 @@ type|string|N|混流类型 picture_in_picture 画中画  side_by_side 左右两�
 inviterType|int|Y|邀请是否为观众 #1是观众 2 主播
 inviteeType|int|Y|被邀请是否为观众 #1是观众 2 主播
 
-
-## 注意事项 ##
-   无
-
 ## 返回结果 Json ##
->1.成功获取
 ```python
 {
   code:200,

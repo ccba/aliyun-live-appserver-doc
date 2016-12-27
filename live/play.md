@@ -6,8 +6,6 @@
 ```ruby
     POST "/live/play"
 ```
-## 是否需要登录 ##
-    是
 
 ## 请求参数 ##
 
@@ -16,11 +14,9 @@
 roomId|int|Y| 直播间ID
 uid|string|Y| 用户ID
 
-## 注意事项 ##
-   无
 
 ## 返回结果 Json ##
->1.成功获取
+
 ```python
 {
   "code": 200,
