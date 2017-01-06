@@ -1,6 +1,6 @@
 # 阿里云直播App server部署和接口介绍 node版
 
-## 直播快速开始]
+## 直播快速开始
   申请域名，配置推流回调 [参考文档](https://help.aliyun.com/document_detail/29957.html?spm=5176.doc45215.6.546.CjFllk)
 
 ## 连麦快速开始
